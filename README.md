@@ -1,7 +1,3 @@
-![Logo](https://firebasestorage.googleapis.com/v0/b/genpag-app.appspot.com/o/Linkedin_Cover_Gen_1584x396%20copy%205.png?alt=media&token=2ef8c906-c027-4cee-b636-e0eee5d0ede7)
-
-[![Deploy to Firebase Hosting on merge](https://github.com/genpag/gen-monorepo-frontend/actions/workflows/firebase-hosting-main.yml/badge.svg?branch=main)](https://github.com/genpag/gen-monorepo-frontend/actions/workflows/firebase-hosting-main.yml)
-
 # GraphQL Gateway Microservices
 
 ## Running locally
